@@ -99,6 +99,10 @@ a:focus {
     outline: 0;
 }
 
+.modal-footer {
+	background: #2b2b2b;
+}
+
 @media(min-width:767px) {
     .navbar {
         padding: 20px 0;
@@ -265,6 +269,10 @@ a:focus {
     -o-background-size: cover;
 }
 
+.footer-message {
+
+}
+
 #map {
     width: 100%;
     height: 200px;
@@ -358,4 +366,16 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
+}
+
+#footerwrap {
+	background: #282828;
+	margin-top: 0px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+#footerwrap {
+	color: white;
 }
