@@ -1,4 +1,3 @@
 dronesar.github.io
 ==================
-
-www
+dronesar public website.
